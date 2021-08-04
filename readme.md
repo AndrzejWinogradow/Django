@@ -16,6 +16,7 @@ List of courses, workshops and tutorials can be read in acknowledgements
 
 ## Technologies Used
 
+- Django 3.1.3
 - Git version 2.32.0.windows.2
 - Python 3.9.6
 - PyCharm 2021.1.3
@@ -26,6 +27,10 @@ List of courses, workshops and tutorials can be read in acknowledgements
 
 ## List of Projects with description
 
+- [Dokumentacja Django](https://docs.djangoproject.com/pl/3.1/)
+- [Django Rest Framework & React Tutorial](https://www.freecodecamp.org/)
+- [Python Django Web Framework](https://www.freecodecamp.org/)
+- [Django Tutorial for Beginners, Mosh Hamerami](https://codewithmosh.com/)
 - 
 
 
