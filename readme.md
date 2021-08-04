@@ -27,10 +27,6 @@ List of courses, workshops and tutorials can be read in acknowledgements
 
 ## List of Projects with description
 
-- [Dokumentacja Django](https://docs.djangoproject.com/pl/3.1/)
-- [Django Rest Framework & React Tutorial](https://www.freecodecamp.org/)
-- [Python Django Web Framework](https://www.freecodecamp.org/)
-- [Django Tutorial for Beginners, Mosh Hamerami](https://codewithmosh.com/)
 - 
 
 
@@ -80,6 +76,10 @@ To do:
 List of courses, workshops and tutorials: 
 
 - [Python101 Centrum Edukacji Obywatelskiej Bednarz/Rybicka i inni](https://python101.readthedocs.io/pl/latest/index.html)
+- [Dokumentacja Django](https://docs.djangoproject.com/pl/3.1/)
+- [Django Rest Framework & React Tutorial](https://www.freecodecamp.org/)
+- [Python Django Web Framework](https://www.freecodecamp.org/)
+- [Django Tutorial for Beginners, Mosh Hamerami](https://codewithmosh.com/)
 - 
 
 ## Contact
