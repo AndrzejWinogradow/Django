@@ -27,7 +27,7 @@ List of courses, workshops and tutorials can be read in acknowledgements
 
 ## List of Projects with description
 
-- 
+- Nauka_Django_Weatherapp - basic Django app that uses Openweatermap.org api to show different location weather and other informations
 
 
 <!--## Features
