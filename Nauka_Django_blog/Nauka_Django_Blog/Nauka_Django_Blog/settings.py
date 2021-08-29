@@ -127,6 +127,9 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+MEDIA_ROOT = ''
+MEDIA_URL = ''
+
 # Crispyforms install via 'pip install django-crispy-forms' layout(?) manage here
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
