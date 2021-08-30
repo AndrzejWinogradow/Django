@@ -23,7 +23,7 @@ def profile(request):
     p_form = ProfileUpdateForm()
 
     context = {
-        'u_form': u_form
+        'u_form': u_form,
         'p_form': p_form
     }
     return render(request, 'users/profile.html', context)    
