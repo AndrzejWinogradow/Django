@@ -28,6 +28,7 @@ List of courses, workshops and tutorials can be read in acknowledgements
 ## List of Projects with description
 
 - Nauka_Django_Weatherapp - basic Django app that uses Openweatermap.org api to show different location weather and other informations
+- Nauka_Django_Blog - basic layout blog with user managment, password reset etc
 
 
 <!--## Features
@@ -80,7 +81,7 @@ List of courses, workshops and tutorials:
 - [Django Rest Framework & React Tutorial](https://www.freecodecamp.org/)
 - [Python Django Web Framework](https://www.freecodecamp.org/)
 - [Django Tutorial for Beginners, Mosh Hamerami](https://codewithmosh.com/)
-- 
+- [Python Django Tutorial, Corey Schafer](https://coreyms.com/)
 
 ## Contact
 Created by [@AndrzejWinogradow](https://github.com/AndrzejWinogradow) - feel free to contact me!
