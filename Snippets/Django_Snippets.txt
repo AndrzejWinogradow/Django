@@ -1,0 +1,11 @@
+console:
+
+mkvirtualenv 'name'
+deactivate
+workon 'name'
+
+pip install django
+python -m django --version
+
+django-admin startproject project_name
+
