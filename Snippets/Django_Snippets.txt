@@ -1,3 +1,5 @@
+Django Snippets
+
 console:
 
 mkvirtualenv 'name'
