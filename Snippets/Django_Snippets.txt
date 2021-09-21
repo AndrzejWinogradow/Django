@@ -11,3 +11,19 @@ python -m django --version
 
 django-admin startproject project_name
 
+python manage.py runserver
+
+python manage.py startapp app_name
+
+views.py
+
+from django.http import HttpResponse
+
+def home(request):
+    context = {
+        'posts': Post.objects.all()
+    }
+    return render(request, 'blog/home.html', context)
+
+
+
