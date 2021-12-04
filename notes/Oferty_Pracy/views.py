@@ -5,3 +5,7 @@ from django.http import HttpResponse
 
 def say_hello(request):
     return HttpResponse('No hejka')
+
+
+def oferty(request):
+    return HttpResponse('tu będą oferty')
