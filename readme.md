@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Certificates](#certificates)
 * [Technologies Used](#technologies-used) <!--  * [Features](#features)  --> <!--  * [Screenshots](#screenshots)  --> <!-- * [Setup](#setup) --> <!--  * [Usage](#usage) -->
 * [List of Projects with description](#list-of-projects-with-describtion)
 * [Project Status](#project-status) <!--  * [Room for Improvement](#room-for-improvement) -->
@@ -13,6 +14,10 @@
 ## General Information
 
 List of courses, workshops and tutorials can be read in acknowledgements
+
+## Certificates
+
+- [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/certificate/UC-2896cf76-c7e6-4add-8d67-4d265f765496/)
 
 ## Technologies Used
 
